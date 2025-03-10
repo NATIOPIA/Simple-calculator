@@ -12,9 +12,9 @@
         int subtract(float,float)
         int multiply(float,float)
         int divide(float,float)
-2.Display Menu Function:
+2. Display Menu Function:
     *Create a function void displayMenu() to print the menu options to the console.
-3.Main Function:
+3. Main Function:
     *Initialize variables for user choice, numbers, and a loop control.
     *Use a while loop to keep the program running until the user chooses to exit:
         -Call displayMenu() to show the options.
@@ -23,5 +23,5 @@
         -Otherwise, prompt the user to enter two numbers.
         -Use a switch statement to call the corresponding arithmetic function based on the user's choice, and display the result.
         -Handle division by zero with error checking.
-4.End the Program:
+4. End the Program:
     *Print a goodbye message when the user exits.
